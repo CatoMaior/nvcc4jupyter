@@ -1,3 +1,5 @@
+Forked from [andreinechaev/nvcc4jupyter](https://github.com/andreinechaev/nvcc4jupyter). The only difference is the position of the cuda executable.
+
 ## NVCC Plugin for Jupyter notebook
 
 ### V2 is available
